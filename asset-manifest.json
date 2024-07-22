@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Abradon-landing-page-/static/css/main.a481039b.css",
+    "main.js": "/Abradon-landing-page-/static/js/main.1a83ae23.js",
+    "static/media/model1.jpg": "/Abradon-landing-page-/static/media/model1.18f80424cb9dd8bcebb9.jpg",
+    "static/media/model3.jpg": "/Abradon-landing-page-/static/media/model3.e4b9095ad82de3c3d483.jpg",
+    "static/media/model2.jpg": "/Abradon-landing-page-/static/media/model2.0f2cb9a492ce5c52da4a.jpg",
+    "static/media/Premium look shoe.jpg": "/Abradon-landing-page-/static/media/Premium look shoe.a50f85bb83b9ca491386.jpg",
+    "static/media/logo.png": "/Abradon-landing-page-/static/media/logo.d7291986fe1d70d0aea0.png",
+    "index.html": "/Abradon-landing-page-/index.html",
+    "main.a481039b.css.map": "/Abradon-landing-page-/static/css/main.a481039b.css.map",
+    "main.1a83ae23.js.map": "/Abradon-landing-page-/static/js/main.1a83ae23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a481039b.css",
+    "static/js/main.1a83ae23.js"
+  ]
+}
